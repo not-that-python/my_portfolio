@@ -1,0 +1,92 @@
+About Me
+I'm Avni, a sixth form student at Cambridge Maths School.
+I have experience in Python, JS, HTML, CSS, and some R. I've run multiple coding workshops for young people across the country, and even in Kenya and India. My passion is in AI and machine learning, and I plan to take AI or computer science as a course in university
+
+My portfolio (unedited)
+
+Work experience:
+Web app tester, sAInaptic: Feb 2022 – May 2022 
+Research assistant, Svastia: Jun 2023 – Jun 2023 
+
+Clubs 
+St Catherine’s Girls Choir 2018 – 2023 
+Recieved the Reeds Award for my dedication and commitment to the choir 
+Travelled to California and Ireland to perform in concerts and church services 
+Taekwondo (2nd degree black belt) 
+Participated in multiple competitions and have recieved 3 bronze medals 
+Debating club 
+Attended a DebateMate event at the Cambridge Union 
+Swimming 
+Piano grade 8 
+
+Competitions 
+First LEGO league (FLL) - CERC: 
+FLL is a competition where you do two things: build and program a LEGO technic robot to complete a series of tasks on a playmat, and 
+Came 1st in the regionals 3 years in a row and came 2nd in the nationals 
+Received multiple awards in the nationals e.g. robot design, knockout rounds, innovation project 
+Hackathons: 
+VeChain Hackathon 
+Came top 10 in my track 
+MedTech Hackathon 
+ClimateImpact AI Hackathon at the Royal Institute 
+Brunel Hackathon (less likely to mention: didn’t do much) 
+UKMT: Gold SMC, Gold IMC, Silver JMC, Merit x2 Andrew Jobbings Kangaroo, 
+Merit MOG 
+Gold in Biology Challenge 
+Gold in the Cambridge Chemistry Challenge 
+Perse Coding Team Challenge (PCTC) Merit x2 and Distinction 
+Got to level 3 out of 5 in the Google foobar challenge 
+Coolest Projects AI app for dementia (probably irrelevant as i won no prize and the app never existed) 
+
+Teaching / outreach 
+Reading for younger kids who are e.g. dyslexic, unwilling to read, have English as a second language 
+Maths Mentoring Scheme 
+Coding workshops across the country for kids 
+Some were Python, some were Scratch, some used the micro:bit 
+Ran workshops at Raspberry Pi jams 
+Ran one at Bletchley Park 
+Educational outreach for my school: 
+Eureka day 
+Sixth form stalls 
+Open day 
+Taught in Kenya using BeeBots 
+Talked about using micro:bits for workshops at BBC 
+Used micro:bits to run a workshop at an orphanage in India 
+One of 12 young coders from across the country, chosen to help inspire other young people to do coding. Called the Young Coders Meetup (YCM) 
+Something to do with the mini:mu, i forgot (probably a workshop for young girls) 
+Worked with Red Hat to do something idk 
+Ran a micro:bit stall at IET London 2018 
+Assisted in an IBelong coding workshop event for secondary school girls, run at my sixth form 
+Hosted a micro:bit stall at the Bett show 
+Inspired someone else to run a micro:bit workshop for girls in Eritrea 
+Coding Club (primary and secondary) 
+Ran a workshop in Brownies to run code on the AstroPI in the ISS 
+
+Projects 
+Project work: Learnign about Mahcine Learning: worked in a team to train a machine learning model (created using scikit-learn) to detect fraudulent bank transactions from a dataframe of different bank transactions: 
+Repo here: https://github.com/IvanLeung36/machine_learning 
+Did a presentation with my team to explain how we chose an algorithm, trained our model and evaluated it’s performance 
+Made a website as part of my schoolwork: https://avni.2024.compsci.me/ 
+Festival of Code (a yearly event for kids of all ages in Wapping High School, where you spend a week making a project): 
+Use MIT App inventor to make an app to revise taekwondo theory 
+Made an AR filter in Snapchat 
+Made a 3D website 
+Used Anvil to make a fridge app (track what’s in your fridge) 
+Worked with someone else to make an unhosted website that gives a map of the UK divided by constituency and colour-coded by the winning party of each in the 2024 election. Repo here: https://github.com/Kingsley-Godfrey/interactive-map-of-the-UK-by-constituency 
+Have an old profile website from when I was a child called tinkeringneurons: https://tinkeringneurons.com/ 
+Made 3D websites with a three.js and WebGL course: https://threejs-journey.com/ and the websites are here: 
+https://rainbow-alphabet-spaghetti.vercel.app/ 
+https://17-haunted-house-blue.vercel.app/ 
+https://avni-website-portfolio.deno.dev/ (WIP) 
+Used p5.js to make a lot of 2D and 3D coding projects, seen on my OpenProcessing profile here: https://openprocessing.org/user/234731?view=sketches 
+
+Other 
+DofE Gold 
+PyCon UK 2018 talk for Anvil (My caesar cipher web app) 
+Visited Novalia, a company who makes touch-sensitive posters that play music: https://www.novalia.co.uk/ 
+Did Hacktivate in lessons, a list of capture the flag games which test different computer science skills, such a cryptography, coding, cybersecurity and more. 
+We later had The Big Hack, which was where we teamed 
+Learned to use Blender in weekly sessions with a friend 
+Was invited to Anvil’s offices (website here: https://anvil.works/) 
+Enjoyed problem solving especially the Advent of Code 
+Codewars (less likely to mention: didn’t do much) 
