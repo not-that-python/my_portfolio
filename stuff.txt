@@ -1,6 +1,6 @@
 About Me
-I'm Avni, a sixth form student at Cambridge Maths School.
-I have experience in Python, JS, HTML, CSS, and some R. I've run multiple coding workshops for young people across the country, and even in Kenya and India. My passion is in AI and machine learning, and I plan to take AI or computer science as a course in university
+I'm a student at Cambridge Maths School. I have a strong passion for STEM, especially coding, AI, and data analytics, with experience in Python, HTML, CSS, JavaScript, and some R. I enjoy solving complex problems and have taken part in a range of coding and maths challenges, from the UKMT to Google’s foo:bar recruitment platform. Beyond coding, I love teaching others—I’ve run multiple coding workshops for children and young people across England and contributed to educational outreach at my school, including open days. I also enjoy singing and playing the piano, and have performed in choirs and concerts for several years. I plan to study AI or Computer Science at university, and I’m always looking for ways to apply my skills to real-world problems and push myself beyond my comfort zone.
+
 
 My portfolio (unedited)
 
@@ -21,7 +21,7 @@ Piano grade 8
 
 Competitions 
 First LEGO league (FLL) - CERC: 
-FLL is a competition where you do two things: build and program a LEGO technic robot to complete a series of tasks on a playmat, and 
+FLL is a competition where you do two things: build and program a LEGO technic robot to complete a series of tasks on a playmat, and come up with an innovative way to solve a problem in a certain area e.g. delivery, fitness, energy
 Came 1st in the regionals 3 years in a row and came 2nd in the nationals 
 Received multiple awards in the nationals e.g. robot design, knockout rounds, innovation project 
 Hackathons: 
